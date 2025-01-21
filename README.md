@@ -2,6 +2,20 @@
 
 This example contains a Travel Planner application with search capabilities using CoAgents.
 
+[![Watch the video]](https://www.youtube.com/watch?v=9v3kXiOY3vg)
+
+### India Travel Destinations
+![India snap](https://github.com/PranayHaldiya/travel-coagents/blob/main/ui/app/Screenshot%202025-01-21%20193102.png)
+
+### Adding India Travel Destinations
+![Adding trips snap](https://github.com/PranayHaldiya/travel-coagents/blob/main/ui/app/Screenshot%202025-01-21%20193130.png)
+
+### Vacation in Paris
+![Paris snap](https://github.com/PranayHaldiya/travel-coagents/blob/main/ui/app/Screenshot%202025-01-21%20193209.png)
+
+### Business Trip NYC
+![NYC snap](https://github.com/PranayHaldiya/travel-coagents/blob/main/ui/app/Screenshot%202025-01-21%20193343.png)
+
 **These instructions assume you are in the `coagents-travel/` directory**
 
 ## Running the Agent
